@@ -21,7 +21,7 @@ I prioritize understanding core programming principles and crafting clean, maint
 ### 3. SimpleApps - Web-Based Application Generation Tool
 - **Tech Stack:** Java Spring Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20">, Angular <img src="https://angular.io/assets/images/favicons/favicon.ico" width="20">
 - **Repo:** [SimpleApps](https://github.com/appsofluna/appsofluna-simpleapps)
-- BCS Professional Graduate Diploma project (2016) under AppsoFluna.
+- BCS Professional Graduate Diploma project (2016) under [AppsoFluna](https://github.com/appsofluna/).
 - Facilitates creation of basic apps with predefined components. You can generate code in PHP.
 - Hadn't touch this for a while, but the new trends of large language models (LLMs) can enhance this project.
 - **Demo:** [YouTube](https://www.youtube.com/watch?v=e5qW0Sv_RtQ)
