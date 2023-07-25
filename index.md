@@ -18,7 +18,7 @@ I prioritize understanding core programming principles and crafting clean, maint
 - **Repo:** [MarsHR](https://github.com/charakajg/marshr)
 - An Alfresco HR customisation I developed for fun. Provided a foundational understanding of Alfresco CMS and its workflows.
 
-### 3. SimpleApps (Web-Based Application Generation Tool)
+### 3. SimpleApps - Web-Based Application Generation Tool
 - **Tech Stack:** Java Spring Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20">, Angular <img src="https://angular.io/assets/images/favicons/favicon.ico" width="20">
 - **Repo:** [SimpleApps](https://github.com/appsofluna/appsofluna-simpleapps)
 - BCS Professional Graduate Diploma project (2016) under AppsoFluna.
