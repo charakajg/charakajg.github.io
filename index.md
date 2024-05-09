@@ -1,6 +1,6 @@
 # Hi, I'm Charaka G. 🖐️
 
-I'm a senior software engineer/developer from Sri Lanka 🇱🇰. I also spearhead the [**AppsoFluna** group](https://github.com/appsofluna/).
+I'm a developer from Sri Lanka with an interest in technical product management 🇱🇰.
 
 I prioritize understanding core programming principles and crafting clean, maintainable code. While language specifics might change, these foundational concepts persist. I also believe that **teamwork and collaboration** drive great software projects as much as the code does. One of the essays that profoundly encapsulates my sentiments towards programming is ["Why is programming fun?"](http://people.apache.org/~acmurthy/WhyIsProgrammingFun.html) by Frederick P. Brooks, Jr. He aptly expresses why it is fun and more importantly how it can be meaningful work. Now, here's a map to navigate my repositories.
 
