@@ -1,7 +1,10 @@
 ---
 title: "Results Across Two Regions"
-permalink: /results/
+permalink: /gloc26/results/
 ---
+
+{% include gloc26-theme.html %}
+<div class="gloc26-theme" markdown="1">
 
 # 🌍 Block 3 — Results Across Two Regions
 
@@ -23,12 +26,4 @@ Driven by **irrigated paddy methane**.
 - LULC classification accuracy: **78.41%**
 - Alternate Wetting and Drying on 50% of paddy area projected: **13.78% CH₄ reduction** — the largest single-lever reduction in either case study.
 
----
-
-### Continue reading
-
-⬅️ Previous: [Block 2 — The Framework](/the-framework/)
-
-➡️ Next: [Block 4 — Ablation Benchmark & Takeaways](/ablation-benchmark/)
-
-🏠 [Back to home](/)
+</div>

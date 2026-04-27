@@ -8,10 +8,10 @@ I prioritize understanding core programming principles and crafting clean, maint
 
 A four-part write-up on monitoring greenhouse gas emissions and land-use change with LangGraph-coordinated agents.
 
-1. [The Problem](/the-problem/)
-2. [The Framework](/the-framework/)
-3. [Results Across Two Regions](/results/)
-4. [Ablation Benchmark & Takeaways](/ablation-benchmark/)
+1. [The Problem](/gloc26/the-problem/)
+2. [The Framework](/gloc26/the-framework/)
+3. [Results Across Two Regions](/gloc26/results/)
+4. [Ablation Benchmark & Takeaways](/gloc26/ablation-benchmark/)
 
 ## 🛠️ Projects
 
