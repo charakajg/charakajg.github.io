@@ -1,11 +1,9 @@
 ---
-title: "The Problem"
 permalink: /gloc26/the-problem/
 ---
 
 {% include gloc26-theme.html %}
 <div class="gloc26-theme" markdown="1">
-
 # 🛰️ Block 1 — The Problem
 
 Monitoring greenhouse gas emissions and land-use change is critical for climate action, yet current pipelines suffer from three key gaps:

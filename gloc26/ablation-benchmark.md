@@ -1,11 +1,9 @@
 ---
-title: "Ablation Benchmark & Takeaways"
 permalink: /gloc26/ablation-benchmark/
 ---
 
 {% include gloc26-theme.html %}
 <div class="gloc26-theme" markdown="1">
-
 # 📊 Block 4 — Ablation Benchmark & Takeaways
 
 A live **16-cell ablation** (2 regions × 4 modes × 2 models) across **28 OpenAI API calls** costing just **$0.0483 total** revealed:

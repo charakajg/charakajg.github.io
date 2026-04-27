@@ -1,11 +1,9 @@
 ---
-title: "Results Across Two Regions"
 permalink: /gloc26/results/
 ---
 
 {% include gloc26-theme.html %}
 <div class="gloc26-theme" markdown="1">
-
 # 🌍 Block 3 — Results Across Two Regions
 
 The framework was tested on two contrasting regions.
