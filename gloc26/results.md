@@ -1,9 +1,8 @@
 ---
+layout: gloc26
 permalink: /gloc26/results/
 ---
 
-{% include gloc26-theme.html %}
-<div class="gloc26-theme" markdown="1">
 # 🌍 Block 3 — Results Across Two Regions
 
 The framework was tested on two contrasting regions.
@@ -23,5 +22,3 @@ Driven by **irrigated paddy methane**.
 - CH₄ trend: **+12.28 ppb/year** (R² = 0.980)
 - LULC classification accuracy: **78.41%**
 - Alternate Wetting and Drying on 50% of paddy area projected: **13.78% CH₄ reduction** — the largest single-lever reduction in either case study.
-
-</div>
