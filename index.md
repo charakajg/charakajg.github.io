@@ -4,6 +4,15 @@ I'm a developer from Sri Lanka with an interest in technical product management 
 
 I prioritize understanding core programming principles and crafting clean, maintainable code. While language specifics might change, these foundational concepts persist. I also believe that **teamwork and collaboration** drive great software projects as much as the code does. One of the essays that profoundly encapsulates my sentiments towards programming is ["Why is programming fun?"](http://people.apache.org/~acmurthy/WhyIsProgrammingFun.html) by Frederick P. Brooks, Jr. He aptly expresses why it is fun and more importantly how it can be meaningful work. Now, here's a map to navigate my repositories.
 
+## 🌱 Featured Research — LLM-Augmented Multi-Agent Geospatial Pipeline
+
+A four-part write-up on monitoring greenhouse gas emissions and land-use change with LangGraph-coordinated agents.
+
+1. [The Problem](/the-problem/)
+2. [The Framework](/the-framework/)
+3. [Results Across Two Regions](/results/)
+4. [Ablation Benchmark & Takeaways](/ablation-benchmark/)
+
 ## 🛠️ Projects
 
 ### 1. Transparent - Pet Adoption with a Twist
